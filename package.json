@@ -1,14 +1,18 @@
 {
-  "name": "book-scene-generator",
-  "version": "0.1.0",
+  "name": "literary-visions",
+  "version": "1.0.0",
+  "description": "Transform epic book scenes into stunning wallpapers using AI-powered image generation with fal.ai",
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "dev:mobile": "next dev -H 0.0.0.0",
     "build": "next build",
     "start": "next start",
     "lint": "eslint"
   },
   "dependencies": {
+    "@fal-ai/client": "^1.8.4",
+    "@fal-ai/server-proxy": "^1.1.2",
     "next": "16.1.6",
     "react": "19.2.3",
     "react-dom": "19.2.3"
