@@ -132,7 +132,7 @@ export default function Home() {
             Literary Visions
           </h1>
           <p className="subtitle">
-            Transform epic book scenes into stunning desktop wallpapers with <span className="highlight">fal.ai</span>
+            Transform epic book scenes into stunning desktop wallpapers with AI
           </p>
         </div>
 
@@ -366,7 +366,7 @@ export default function Home() {
 
       {/* Subtle Footer */}
       <footer className="app-footer">
-        <p>Powered by <a href="https://fal.ai" target="_blank" rel="noopener noreferrer" className="fal-link">fal.ai</a> • Transform literary worlds into visual art</p>
+        <p>Transform literary worlds into visual art</p>
       </footer>
 
       {/* Result Section */}

@@ -1729,13 +1729,3 @@ h1.title-glow {
   }
 }
 
-.fal-link {
-  color: var(--fal-purple);
-  text-decoration: none;
-  font-weight: 600;
-  transition: color 0.2s ease;
-}
-
-.fal-link:hover {
-  color: var(--fal-pink);
-}

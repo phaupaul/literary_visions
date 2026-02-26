@@ -4,7 +4,7 @@ Transform epic book scenes into stunning desktop wallpapers using AI-powered ima
 
 ## 🎨 About
 
-Literary Visions is an intelligent wallpaper generator that brings your favorite book scenes to life. Select from curated scenes from beloved fantasy and sci-fi novels, or describe your own vision. The app uses advanced AI models from [fal.ai](https://fal.ai) to generate high-quality images with intelligent prompt enhancement.
+Literary Visions is an intelligent wallpaper generator that brings your favorite book scenes to life. Select from curated scenes from beloved fantasy and sci-fi novels, or describe your own vision. The app uses advanced AI image generation with intelligent prompt enhancement.
 
 ### Key Features
 
@@ -97,7 +97,7 @@ Currently includes scenes from:
 
 ## 🤝 Contributing
 
-This project was built as a demonstration of fal.ai's capabilities. Feel free to fork and customize with your own book selections and scenes!
+Feel free to fork and customize with your own book selections and scenes!
 
 ## 📝 License
 
@@ -105,6 +105,5 @@ MIT
 
 ## 🙏 Acknowledgments
 
-- Powered by [fal.ai](https://fal.ai) - Fast, reliable AI inference
 - Book quotes and world-building from their respective authors
 - Built with Next.js and TypeScript

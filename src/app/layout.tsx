@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Literary Visions - AI-Powered Book Scene Wallpapers",
-  description: "Transform epic scenes from your favorite fantasy and sci-fi books into stunning wallpapers using AI. Powered by fal.ai.",
+  description: "Transform epic scenes from your favorite fantasy and sci-fi books into stunning wallpapers using AI.",
 };
 
 export default function RootLayout({
